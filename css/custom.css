@@ -1,0 +1,11 @@
+#catalog-list {
+  display: flex;
+  white-space: nowrap;
+  /* overflow-x: scroll; */
+  /* margin-top: 12px; */
+  overflow: hidden;
+}
+
+.banners-link-btn {
+  width: 150px;
+}
