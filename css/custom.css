@@ -6,6 +6,13 @@
   overflow: hidden;
 }
 
-.banners-link-btn {
-  width: 150px;
+#post-comment .comment-head .comment-randomInfo {
+  display: none;
+}
+#console > div.console-card-group > div.console-card-group-left > div {
+    background: var(--card-bg);
+    border: var(--style-border);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: var(--anzhiyu-shadow-border);
 }
