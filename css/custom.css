@@ -16,3 +16,7 @@
     padding: 20px;
     box-shadow: var(--anzhiyu-shadow-border);
 }
+
+#article-container .highlight-tools {
+  display: none;
+}
