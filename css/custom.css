@@ -20,3 +20,7 @@
 #article-container .highlight-tools {
   display: none;
 }
+
+#post-tools > div > div.rewardLeftButton > div.post-reward > div.reward-main > div > a {
+  display: none;
+}
