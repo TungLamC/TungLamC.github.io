@@ -1,10 +1,10 @@
 https://tunglamc.github.io/categories/index.html
 https://tunglamc.github.io/tags/index.html
+https://tunglamc.github.io/20240610062200/
 https://tunglamc.github.io/20241001163700/
 https://tunglamc.github.io/20240930074700/
 https://tunglamc.github.io/20240929165800/
 https://tunglamc.github.io/20250527153500/
-https://tunglamc.github.io/20240610062200/
 https://tunglamc.github.io/20240524154400/
 https://tunglamc.github.io/20240607123500/
 https://tunglamc.github.io/20240525123000/
@@ -25,7 +25,7 @@ https://tunglamc.github.io/tags/Logseq/
 https://tunglamc.github.io/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/
 https://tunglamc.github.io/tags/Markdown/
 https://tunglamc.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/
-https://tunglamc.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/
+https://tunglamc.github.io/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
 https://tunglamc.github.io/tags/hexo/
 https://tunglamc.github.io/tags/%E5%86%99%E4%BD%9C/
 https://tunglamc.github.io/categories/Unity/
