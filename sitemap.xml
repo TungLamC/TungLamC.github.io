@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://tunglamc.github.io/20241021010623/</loc>
+    
+    <lastmod>2024-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tunglamc.github.io/20240929165800/</loc>
     
     <lastmod>2024-10-14</lastmod>
@@ -185,13 +194,6 @@
   </url>
   
   <url>
-    <loc>https://tunglamc.github.io/tags/Gameplay/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://tunglamc.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +202,13 @@
   
   <url>
     <loc>https://tunglamc.github.io/tags/Logseq/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tunglamc.github.io/tags/Gameplay/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -286,6 +295,13 @@
   
   <url>
     <loc>https://tunglamc.github.io/categories/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tunglamc.github.io/categories/Gameplay/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
